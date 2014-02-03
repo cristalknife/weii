@@ -64,7 +64,14 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
-
+p{
+	font-family=Vivaldi,Sans-comic,Times New Roman;
+}
+video{
+	border = 2px dashed #5d3faa;
+	border-radius:37%;
+	
+}
 
 
 
